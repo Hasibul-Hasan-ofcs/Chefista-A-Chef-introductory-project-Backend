@@ -2,51 +2,57 @@
   "chefs": [
     {
       "_id": "1a2b3c4d5e6f",
-      "picture": "https://example.com/chef1.jpg",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/chefist-project.appspot.com/o/Chef_Images%2FjapaneseChef01.png?alt=media&token=ff35fa42-43d2-4408-ab3c-5ead4834eca1",
       "name": "Toshiro Kuroda",
       "years_of_experience": 25,
       "num_of_recipes": 150,
-      "likes": 10000
+      "likes": 10000,
+      "bio": "Toshiro Kuroda is a renowned chef from Japan with over 25 years of experience in the culinary industry. He has authored several cookbooks and has been featured in numerous TV shows and magazines. His signature dishes are a fusion of traditional Japanese and contemporary Western cuisine."
     },
     {
       "_id": "7e8f9g1h2i3j",
-      "picture": "https://example.com/chef2.jpg",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/chefist-project.appspot.com/o/Chef_Images%2FjapaneseChef02.png?alt=media&token=d1200c7b-cdbb-4f1b-97f5-9a8824b84780",
       "name": "Yoshimi Tanaka",
       "years_of_experience": 30,
       "num_of_recipes": 200,
-      "likes": 15000
+      "likes": 15000,
+      "bio": "Yoshimi Tanaka is a highly acclaimed chef from Japan with over 30 years of experience in the culinary industry. She has won several awards for her innovative approach to Japanese cuisine, which often features fresh, locally-sourced ingredients. She is also a frequent guest on cooking shows and has written several cookbooks."
     },
     {
       "_id": "4k5l6m7n8o9p",
-      "picture": "https://example.com/chef3.jpg",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/chefist-project.appspot.com/o/Chef_Images%2FjapaneseChef03.png?alt=media&token=7fbf76b1-2dcb-406e-b33d-357b53b36466",
       "name": "Kenji Nakamura",
       "years_of_experience": 20,
       "num_of_recipes": 100,
-      "likes": 8000
+      "likes": 8000,
+      "bio": "Kenji Nakamura is a well-known chef from Japan with 20 years of experience in the culinary industry. He specializes in traditional Japanese cuisine and is known for his expertise in preparing seafood dishes. He has also trained many aspiring chefs who have gone on to open their own successful restaurants."
     },
     {
       "_id": "1q2r3s4t5u6v",
-      "picture": "https://example.com/chef4.jpg",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/chefist-project.appspot.com/o/Chef_Images%2FjapaneseChef04.png?alt=media&token=f0f3402e-fed8-402c-ac8f-c5c382b25be4",
       "name": "Ayumi Ishida",
       "years_of_experience": 15,
       "num_of_recipes": 75,
-      "likes": 5000
+      "likes": 5000,
+      "bio": "Ayumi Ishida is a talented chef from Japan with 15 years of experience in the culinary industry. She is known for her creative take on traditional Japanese dishes, often incorporating unique ingredients and cooking techniques. Her passion for food is reflected in the delicious dishes she prepares for her customers."
     },
     {
       "_id": "7w8x9y1z2a3b",
-      "picture": "https://example.com/chef5.jpg",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/chefist-project.appspot.com/o/Chef_Images%2FjapaneseChef05.png?alt=media&token=0aca001c-85ea-41a9-a745-e729e9c936af",
       "name": "Hiroki Sato",
       "years_of_experience": 12,
       "num_of_recipes": 50,
-      "likes": 3000
+      "likes": 3000,
+      "bio": "Hiroki Sato is a promising young chef from Japan with 12 years of experience in the culinary industry. He has worked in some of the most renowned restaurants in Japan and is known for his innovative approach to cooking. He is constantly experimenting with new ingredients and techniques to create unique and delicious dishes."
     },
     {
       "_id": "4c5d6e7f8g9h",
-      "picture": "https://example.com/chef6.jpg",
+      "picture": "https://firebasestorage.googleapis.com/v0/b/chefist-project.appspot.com/o/Chef_Images%2FjapaneseChef06.png?alt=media&token=44d0eff4-b189-4397-afb7-ad88548ae326",
       "name": "Makoto Suzuki",
       "years_of_experience": 18,
       "num_of_recipes": 80,
-      "likes": 7000
+      "likes": 7000,
+      "bio": "Makoto Suzuki is a highly experienced chef with over 18 years in the industry. He has a passion for creating unique and flavorful dishes that delight the senses. He specializes in Japanese cuisine and has a particular talent for sushi-making. He has won several awards for his work and has worked in some of the most prestigious restaurants in Japan and around the world. In his free time, he enjoys exploring local markets and experimenting with new ingredients and cooking techniques."
     }
   ]
 }
