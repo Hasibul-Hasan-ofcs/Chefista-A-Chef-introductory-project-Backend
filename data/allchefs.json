@@ -1,0 +1,46 @@
+{
+  "chefs": [
+    {
+      "picture": "https://example.com/chef1.jpg",
+      "name": "Hiroshi Nakamura",
+      "years_of_experience": 25,
+      "num_recipes": 150,
+      "likes": 12000
+    },
+    {
+      "picture": "https://example.com/chef2.jpg",
+      "name": "Akihiro Yamamoto",
+      "years_of_experience": 20,
+      "num_recipes": 100,
+      "likes": 9000
+    },
+    {
+      "picture": "https://example.com/chef3.jpg",
+      "name": "Yukio Kimura",
+      "years_of_experience": 30,
+      "num_recipes": 200,
+      "likes": 15000
+    },
+    {
+      "picture": "https://example.com/chef4.jpg",
+      "name": "Masaaki Koyama",
+      "years_of_experience": 35,
+      "num_recipes": 250,
+      "likes": 18000
+    },
+    {
+      "picture": "https://example.com/chef5.jpg",
+      "name": "Kazuo Watanabe",
+      "years_of_experience": 28,
+      "num_recipes": 180,
+      "likes": 11000
+    },
+    {
+      "picture": "https://example.com/chef6.jpg",
+      "name": "Takumi Yamada",
+      "years_of_experience": 15,
+      "num_recipes": 80,
+      "likes": 6000
+    }
+  ]
+}
