@@ -5,6 +5,7 @@
       "recipes": [
         {
           "name": "Teriyaki Salmon",
+          "img": "https://heygrillhey.com/static/dc5efe0b4c681ebd1f7792e680c9c3c7/Grilled-Teriyaki-Salmon-Feature.png",
           "ingredients": [
             "1 lb salmon fillet",
             "1/4 cup soy sauce",
@@ -22,6 +23,7 @@
         },
         {
           "name": "Miso Soup with Tofu and Wakame",
+          "img": "https://www.justonecookbook.com/wp-content/uploads/2022/06/Miso-Soup-8297-I.jpg",
           "ingredients": [
             "4 cups dashi (or vegetable broth)",
             "3 tbsp miso paste",
@@ -34,6 +36,7 @@
         },
         {
           "name": "Chicken Yakitori",
+          "img": "https://www.jessicagavin.com/wp-content/uploads/2015/05/chicken-yakitori-1200.jpg",
           "ingredients": [
             "1 lb boneless, skinless chicken thighs, cut into bite-sized pieces",
             "1/4 cup soy sauce",
@@ -55,6 +58,7 @@
       "recipes": [
         {
           "name": "Miso Glazed Salmon",
+          "img": "https://www.chewoutloud.com/wp-content/uploads/2017/05/miso-glazed-salmon-no-watermark.jpg",
           "ingredients": [
             "salmon fillets",
             "miso paste",
@@ -68,6 +72,7 @@
         },
         {
           "name": "Tempura Shrimp",
+          "img": "https://simplyhomecooked.com/wp-content/uploads/2019/12/shrimp-tempura-recipe-8.jpg",
           "ingredients": [
             "large shrimp",
             "all-purpose flour",
@@ -81,6 +86,7 @@
         },
         {
           "name": "Soba Noodle Salad",
+          "img": "https://pinchofyum.com/wp-content/uploads/Spicy-Peanut-Chicken-Salad-Soba-Square.png",
           "ingredients": [
             "soba noodles",
             "carrots",
@@ -103,6 +109,7 @@
       "recipes": [
         {
           "name": "Chicken Teriyaki",
+          "img": "https://therecipecritic.com/wp-content/uploads/2022/01/teriyakichicken.jpg",
           "ingredients": [
             "boneless chicken thighs",
             "soy sauce",
@@ -118,6 +125,7 @@
         },
         {
           "name": "Vegetable Tempura",
+          "img": "https://static01.nyt.com/images/2013/10/23/dining/23JPFLEX1/23JPFLEX1-articleLarge.jpg",
           "ingredients": [
             "sweet potato",
             "red bell pepper",
@@ -135,6 +143,7 @@
         },
         {
           "name": "Beef Yakitori",
+          "img": "https://www.allrecipes.com/thmb/IDJfco7OsECMgPtoZV-zU_8jwss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/236815-beef-yakitori-momlovestocook-4x3-1-3791be41e8164a50bf7e53969139cc31.jpg",
           "ingredients": [
             "beef sirloin",
             "soy sauce",
@@ -155,6 +164,7 @@
       "recipes": [
         {
           "name": "Grilled Lemon Chicken",
+          "img": "https://www.averiecooks.com/wp-content/uploads/2019/05/grilledlemonchicken-8.jpg",
           "ingredients": [
             "chicken breasts",
             "lemons",
@@ -168,6 +178,7 @@
         },
         {
           "name": "Quinoa Salad with Roasted Vegetables",
+          "img": "https://minimalistbaker.com/wp-content/uploads/2022/10/Kale-Salad-with-Crispy-Quinoa-SQUARE.jpg",
           "ingredients": [
             "quinoa",
             "red onion",
@@ -185,6 +196,7 @@
         },
         {
           "name": "Shrimp and Veggie Stir-Fry",
+          "img": "https://www.cookincanuck.com/wp-content/uploads/2021/09/Shrimp-Vegetable-Stir-Fry-Square-1200-1.jpg",
           "ingredients": [
             "shrimp",
             "broccoli",
@@ -207,6 +219,7 @@
       "recipes": [
         {
           "name": "Teriyaki Chicken",
+          "img": "https://www.thespruceeats.com/thmb/bGnlaeYwJCuKInvKrCnDIBQ-tTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/teriyaki-chicken-2031568-hero-01-cfd182a85ddd4d69be65f0210bc1d518.jpg",
           "ingredients": [
             "chicken breast",
             "soy sauce",
@@ -224,6 +237,7 @@
         },
         {
           "name": "Vegetable Fried Rice",
+          "img": "https://www.budgetbytes.com/wp-content/uploads/2022/03/Vegetable-Fried-Rice-plate.jpg",
           "ingredients": [
             "cooked rice",
             "carrots",
@@ -241,6 +255,7 @@
         },
         {
           "name": "Ginger-Soy Glazed Beef Skewers",
+          "img": "https://www.foxandbriar.com/wp-content/uploads/2022/05/Sesame-Ginger-Steak-Skewers-8-1.jpg",
           "ingredients": [
             "beef sirloin",
             "soy sauce",
@@ -262,6 +277,7 @@
       "recipes": [
         {
           "name": "Grilled Chicken Skewers",
+          "img": "https://www.wholesomeyum.com/wp-content/uploads/2021/07/wholesomeyum-Grilled-Mediterranean-Chicken-Kabobs-With-Vegetables-10.jpg",
           "ingredients": [
             "boneless, skinless chicken breasts",
             "red bell pepper",
@@ -279,6 +295,7 @@
         },
         {
           "name": "Black Bean Quesadillas",
+          "img": "https://girlheartfood.com/wp-content/uploads/2021/01/Black-Bean-Quesadilllas-Feature.jpg",
           "ingredients": [
             "flour tortillas",
             "black beans",
@@ -292,6 +309,7 @@
         },
         {
           "name": "Shrimp and Vegetable Stir Fry",
+          "img": "https://static.onecms.io/wp-content/uploads/sites/19/2005/10/01/shrimp-stirfry-ay-1875224-4x3-1-2000.jpg",
           "ingredients": [
             "large shrimp",
             "broccoli",
