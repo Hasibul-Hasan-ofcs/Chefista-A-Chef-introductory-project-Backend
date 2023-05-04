@@ -1,0 +1,314 @@
+{
+  "recipes": [
+    {
+      "_id": "1a2b3c4d5e6f",
+      "recipes": [
+        {
+          "name": "Teriyaki Salmon",
+          "ingredients": [
+            "1 lb salmon fillet",
+            "1/4 cup soy sauce",
+            "2 tbsp honey",
+            "1 tbsp rice vinegar",
+            "1 tsp sesame oil",
+            "1 clove garlic, minced",
+            "1 tbsp grated ginger",
+            "1 tbsp cornstarch",
+            "1 tbsp water",
+            "Sesame seeds and sliced green onions for garnish"
+          ],
+          "cooking_method": "Preheat oven to 400°F. In a small saucepan, whisk together soy sauce, honey, rice vinegar, sesame oil, garlic, and ginger. Cook over medium heat for 5-7 minutes, stirring occasionally, until sauce thickens. In a separate bowl, mix cornstarch and water until smooth. Brush salmon with teriyaki sauce, then bake for 12-15 minutes, until cooked through. Brush with additional sauce and sprinkle with sesame seeds and green onions before serving.",
+          "rating": 4.5
+        },
+        {
+          "name": "Miso Soup with Tofu and Wakame",
+          "ingredients": [
+            "4 cups dashi (or vegetable broth)",
+            "3 tbsp miso paste",
+            "1/2 block silken tofu, cubed",
+            "1/4 cup dried wakame seaweed",
+            "2 green onions, thinly sliced"
+          ],
+          "cooking_method": "In a medium saucepan, bring dashi or vegetable broth to a simmer. In a small bowl, whisk together miso paste and 1/4 cup of the hot broth until smooth. Add miso mixture, tofu, and wakame to the saucepan and simmer for 2-3 minutes, until heated through. Ladle soup into bowls and top with sliced green onions before serving.",
+          "rating": 4.0
+        },
+        {
+          "name": "Chicken Yakitori",
+          "ingredients": [
+            "1 lb boneless, skinless chicken thighs, cut into bite-sized pieces",
+            "1/4 cup soy sauce",
+            "1/4 cup sake",
+            "1/4 cup mirin",
+            "2 tbsp brown sugar",
+            "1/2 tsp grated ginger",
+            "1/2 tsp grated garlic",
+            "4-6 green onions, cut into 1-inch pieces",
+            "Sesame seeds and sliced green onions for garnish"
+          ],
+          "cooking_method": "In a large bowl, whisk together soy sauce, sake, mirin, brown sugar, ginger, and garlic. Add chicken pieces and toss to coat. Thread chicken and green onion pieces onto skewers. Heat a grill or grill pan over medium-high heat. Grill skewers for 5-7 minutes per side, until chicken is cooked through. Sprinkle with sesame seeds and green onions before serving.",
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "chef_id": "7e8f9g1h2i3j",
+      "recipes": [
+        {
+          "name": "Miso Glazed Salmon",
+          "ingredients": [
+            "salmon fillets",
+            "miso paste",
+            "soy sauce",
+            "mirin",
+            "brown sugar",
+            "sesame seeds"
+          ],
+          "cooking_method": "1. Preheat the oven to 400 degrees F. 2. In a small bowl, mix together miso paste, soy sauce, mirin, and brown sugar. 3. Place the salmon fillets skin-side down in a baking dish. 4. Brush the miso glaze over the salmon. 5. Bake for 12-15 minutes, or until the salmon is cooked through. 6. Sprinkle with sesame seeds and serve.",
+          "rating": 4.8
+        },
+        {
+          "name": "Tempura Shrimp",
+          "ingredients": [
+            "large shrimp",
+            "all-purpose flour",
+            "cornstarch",
+            "baking powder",
+            "ice-cold water",
+            "vegetable oil"
+          ],
+          "cooking_method": "1. Heat the vegetable oil in a deep fryer or large pot to 375 degrees F. 2. In a bowl, whisk together flour, cornstarch, and baking powder. 3. Add ice-cold water and whisk until smooth. 4. Dip the shrimp in the batter and shake off excess. 5. Fry the shrimp in batches until golden brown, about 2-3 minutes. 6. Drain on a paper towel and serve with dipping sauce.",
+          "rating": 4.6
+        },
+        {
+          "name": "Soba Noodle Salad",
+          "ingredients": [
+            "soba noodles",
+            "carrots",
+            "cucumber",
+            "radishes",
+            "green onions",
+            "sesame oil",
+            "rice vinegar",
+            "soy sauce",
+            "honey",
+            "toasted sesame seeds"
+          ],
+          "cooking_method": "1. Cook the soba noodles according to package instructions. Drain and rinse under cold water. 2. Julienne the carrots, cucumber, and radishes. 3. Slice the green onions. 4. In a small bowl, whisk together sesame oil, rice vinegar, soy sauce, and honey. 5. Toss the noodles and vegetables with the dressing. 6. Sprinkle with toasted sesame seeds and serve.",
+          "rating": 4.7
+        }
+      ]
+    },
+    {
+      "chef_id": "4k5l6m7n8o9p",
+      "recipes": [
+        {
+          "name": "Chicken Teriyaki",
+          "ingredients": [
+            "boneless chicken thighs",
+            "soy sauce",
+            "mirin",
+            "brown sugar",
+            "garlic",
+            "ginger",
+            "cornstarch",
+            "green onions"
+          ],
+          "cooking_method": "1. In a bowl, mix together soy sauce, mirin, brown sugar, garlic, ginger, and cornstarch. 2. Cut the chicken thighs into bite-sized pieces. 3. Heat a large skillet over medium-high heat. 4. Add the chicken to the skillet and cook until browned on all sides. 5. Pour the sauce over the chicken and stir to coat. 6. Cook until the sauce thickens and the chicken is cooked through. 7. Serve with green onions on top.",
+          "rating": 4.9
+        },
+        {
+          "name": "Vegetable Tempura",
+          "ingredients": [
+            "sweet potato",
+            "red bell pepper",
+            "onion",
+            "zucchini",
+            "asparagus",
+            "all-purpose flour",
+            "cornstarch",
+            "baking powder",
+            "ice-cold water",
+            "vegetable oil"
+          ],
+          "cooking_method": "1. Heat the vegetable oil in a deep fryer or large pot to 375 degrees F. 2. In a bowl, whisk together flour, cornstarch, and baking powder. 3. Add ice-cold water and whisk until smooth. 4. Slice the vegetables into thin pieces. 5. Dip the vegetables in the batter and shake off excess. 6. Fry the vegetables in batches until golden brown, about 2-3 minutes. 7. Drain on a paper towel and serve with dipping sauce.",
+          "rating": 4.5
+        },
+        {
+          "name": "Beef Yakitori",
+          "ingredients": [
+            "beef sirloin",
+            "soy sauce",
+            "mirin",
+            "brown sugar",
+            "garlic",
+            "ginger",
+            "green onions",
+            "bamboo skewers"
+          ],
+          "cooking_method": "1. Cut the beef sirloin into bite-sized pieces. 2. Soak bamboo skewers in water for 30 minutes. 3. In a bowl, mix together soy sauce, mirin, brown sugar, garlic, ginger, and green onions. 4. Thread the beef onto the skewers. 5. Heat a grill or grill pan over medium-high heat. 6. Grill the beef skewers until browned and cooked through, about 2-3 minutes per side. 7. Brush the skewers with the sauce and serve.",
+          "rating": 4.7
+        }
+      ]
+    },
+    {
+      "chef_id": "1q2r3s4t5u6v",
+      "recipes": [
+        {
+          "name": "Grilled Lemon Chicken",
+          "ingredients": [
+            "chicken breasts",
+            "lemons",
+            "garlic",
+            "olive oil",
+            "salt",
+            "black pepper"
+          ],
+          "cooking_method": "1. Preheat grill to medium-high heat. 2. Season chicken breasts with salt and black pepper. 3. In a small bowl, whisk together lemon juice, minced garlic, and olive oil. 4. Brush the mixture over the chicken. 5. Grill chicken for 6-7 minutes per side, or until cooked through. 6. Serve with grilled lemon wedges.",
+          "rating": 4.5
+        },
+        {
+          "name": "Quinoa Salad with Roasted Vegetables",
+          "ingredients": [
+            "quinoa",
+            "red onion",
+            "bell pepper",
+            "zucchini",
+            "carrots",
+            "olive oil",
+            "balsamic vinegar",
+            "honey",
+            "salt",
+            "black pepper"
+          ],
+          "cooking_method": "1. Preheat the oven to 400 degrees F. 2. Cut the vegetables into bite-sized pieces and toss with olive oil, salt, and black pepper. 3. Roast in the oven for 20-25 minutes, stirring occasionally. 4. Cook quinoa according to package instructions. 5. In a small bowl, whisk together balsamic vinegar, honey, and olive oil. 6. Combine roasted vegetables and quinoa in a large bowl. Drizzle with dressing and toss to combine.",
+          "rating": 4.9
+        },
+        {
+          "name": "Shrimp and Veggie Stir-Fry",
+          "ingredients": [
+            "shrimp",
+            "broccoli",
+            "red bell pepper",
+            "carrots",
+            "snow peas",
+            "garlic",
+            "soy sauce",
+            "cornstarch",
+            "sesame oil",
+            "brown sugar"
+          ],
+          "cooking_method": "1. In a small bowl, whisk together soy sauce, cornstarch, sesame oil, brown sugar, and minced garlic. 2. Heat a wok or large skillet over high heat. 3. Add the vegetables and stir-fry for 2-3 minutes. 4. Add the shrimp and continue to stir-fry for 2-3 minutes, or until the shrimp are pink and cooked through. 5. Add the sauce and cook for an additional 1-2 minutes, or until thickened. 6. Serve over rice or noodles.",
+          "rating": 4.7
+        }
+      ]
+    },
+    {
+      "_id": "7w8x9y1z2a3b",
+      "chef_id": "7e8f9g1h2i3j",
+      "recipes": [
+        {
+          "name": "Teriyaki Chicken",
+          "ingredients": [
+            "chicken breast",
+            "soy sauce",
+            "mirin",
+            "sake",
+            "brown sugar",
+            "garlic",
+            "ginger",
+            "cornstarch",
+            "vegetable oil",
+            "green onions"
+          ],
+          "cooking_method": "1. Cut the chicken breast into bite-sized pieces. 2. In a bowl, whisk together soy sauce, mirin, sake, brown sugar, garlic, ginger, and cornstarch. 3. Heat vegetable oil in a large skillet over medium-high heat. 4. Add chicken and cook until browned on all sides. 5. Pour in the teriyaki sauce and stir to coat the chicken. 6. Cook for 2-3 minutes, until the sauce thickens. 7. Top with sliced green onions and serve over rice.",
+          "rating": 4.9
+        },
+        {
+          "name": "Vegetable Fried Rice",
+          "ingredients": [
+            "cooked rice",
+            "carrots",
+            "peas",
+            "corn",
+            "eggs",
+            "soy sauce",
+            "sesame oil",
+            "garlic",
+            "ginger",
+            "green onions"
+          ],
+          "cooking_method": "1. Heat sesame oil in a large skillet over medium heat. 2. Add garlic and ginger and cook for 1-2 minutes. 3. Add carrots and cook for 2-3 minutes until slightly softened. 4. Add peas and corn and cook for an additional 2-3 minutes. 5. Push the vegetables to one side of the skillet and add whisked eggs to the other side. 6. Scramble the eggs until cooked through, then stir in with the vegetables. 7. Add cooked rice, soy sauce, and sliced green onions. 8. Stir-fry for 2-3 minutes, until heated through.",
+          "rating": 4.5
+        },
+        {
+          "name": "Ginger-Soy Glazed Beef Skewers",
+          "ingredients": [
+            "beef sirloin",
+            "soy sauce",
+            "mirin",
+            "brown sugar",
+            "garlic",
+            "ginger",
+            "red pepper flakes",
+            "vegetable oil",
+            "green onions"
+          ],
+          "cooking_method": "1. Cut beef sirloin into cubes and thread onto skewers. 2. In a bowl, whisk together soy sauce, mirin, brown sugar, garlic, ginger, and red pepper flakes. 3. Brush the sauce over the beef skewers. 4. Heat vegetable oil in a large skillet or grill pan over high heat. 5. Add the beef skewers and cook for 2-3 minutes per side, until browned and cooked through. 6. Top with sliced green onions and serve.",
+          "rating": 4.7
+        }
+      ]
+    },
+    {
+      "chef_id": "7e8f9g1h2i3j",
+      "recipes": [
+        {
+          "name": "Grilled Chicken Skewers",
+          "ingredients": [
+            "boneless, skinless chicken breasts",
+            "red bell pepper",
+            "green bell pepper",
+            "red onion",
+            "olive oil",
+            "lemon juice",
+            "garlic",
+            "oregano",
+            "salt",
+            "pepper"
+          ],
+          "cooking_method": "1. Cut chicken and vegetables into bite-size pieces. 2. Thread chicken and vegetables onto skewers. 3. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper. 4. Brush the marinade over the skewers. 5. Grill skewers for 10-15 minutes, or until chicken is cooked through. 6. Serve hot.",
+          "rating": 4.5
+        },
+        {
+          "name": "Black Bean Quesadillas",
+          "ingredients": [
+            "flour tortillas",
+            "black beans",
+            "red bell pepper",
+            "green onions",
+            "shredded cheddar cheese",
+            "olive oil"
+          ],
+          "cooking_method": "1. In a large bowl, mash the black beans with a fork. 2. Mix in chopped red bell pepper and sliced green onions. 3. Spread the mixture over half of each tortilla. 4. Top with shredded cheddar cheese. 5. Fold the tortilla in half. 6. Heat olive oil in a pan over medium heat. 7. Cook the quesadillas for 2-3 minutes on each side, or until golden brown and cheese is melted. 8. Serve hot.",
+          "rating": 4.3
+        },
+        {
+          "name": "Shrimp and Vegetable Stir Fry",
+          "ingredients": [
+            "large shrimp",
+            "broccoli",
+            "carrots",
+            "red bell pepper",
+            "soy sauce",
+            "oyster sauce",
+            "cornstarch",
+            "vegetable oil",
+            "garlic",
+            "ginger"
+          ],
+          "cooking_method": "1. In a small bowl, mix together soy sauce, oyster sauce, and cornstarch. 2. Heat vegetable oil in a wok or large skillet over high heat. 3. Add minced garlic and ginger and stir fry for 30 seconds. 4. Add broccoli, carrots, and red bell pepper and stir fry for 3-4 minutes. 5. Add shrimp and cook for another 2-3 minutes, or until shrimp is pink and cooked through. 6. Pour in the sauce and cook for another minute. 7. Serve hot with rice.",
+          "rating": 4.7
+        }
+      ]
+    }
+  ]
+}
