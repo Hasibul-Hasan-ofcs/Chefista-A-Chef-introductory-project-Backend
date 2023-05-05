@@ -13,10 +13,10 @@
       "_id": "7e8f9g1h2i3j",
       "picture": "https://firebasestorage.googleapis.com/v0/b/chefist-project.appspot.com/o/Chef_Images%2FjapaneseChef02.png?alt=media&token=d1200c7b-cdbb-4f1b-97f5-9a8824b84780",
       "name": "Yoshimi Tanaka",
-      "years_of_experience": 30,
+      "years_of_experience": 20,
       "num_of_recipes": 200,
       "likes": 15000,
-      "bio": "Yoshimi Tanaka is a highly acclaimed chef from Japan with over 30 years of experience in the culinary industry. She has won several awards for her innovative approach to Japanese cuisine, which often features fresh, locally-sourced ingredients. She is also a frequent guest on cooking shows and has written several cookbooks."
+      "bio": "Yoshimi Tanaka is a highly acclaimed chef from Japan with over 30 years of experience in the culinary industry. He has won several awards for his innovative approach to Japanese cuisine, which often features fresh, locally-sourced ingredients. He is also a frequent guest on cooking shows and has written several cookbooks."
     },
     {
       "_id": "4k5l6m7n8o9p",
@@ -34,7 +34,7 @@
       "years_of_experience": 15,
       "num_of_recipes": 75,
       "likes": 5000,
-      "bio": "Ayumi Ishida is a talented chef from Japan with 15 years of experience in the culinary industry. She is known for her creative take on traditional Japanese dishes, often incorporating unique ingredients and cooking techniques. Her passion for food is reflected in the delicious dishes she prepares for her customers."
+      "bio": "Ayumi Ishida is a talented chef from Japan with 15 years of experience in the culinary industry. He is known for his creative take on traditional Japanese dishes, often incorporating unique ingredients and cooking techniques. His passion for food is reflected in the delicious dishes he prepares for his customers."
     },
     {
       "_id": "7w8x9y1z2a3b",
